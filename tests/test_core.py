@@ -1,3 +1,4 @@
+import pytest
 from cicd_pipeline_app.core import add, subtract
 
 def test_add():
