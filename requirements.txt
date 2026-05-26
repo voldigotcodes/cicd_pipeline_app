@@ -1,0 +1,5 @@
+flask>=2.0,<3
+pytest>=7.0,<8
+tox>=4.0,<5
+docker>=6.0,<7
+gunicorn==21.2
